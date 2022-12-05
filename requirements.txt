@@ -1,0 +1,9 @@
+cvxpy==1.0.11
+networkx==2.4
+Flask==1.1.2
+gunicorn==20.0.4
+matplotlib==3.0.3
+numpy==1.16.4
+tqdm==4.47.0
+seaborn==0.9.1
+potpourri3d
